@@ -1,6 +1,6 @@
 # netease_strict_election
 
-> xxxxxx
+> 一个模仿网易严选的app，希望能够进一步熟练使用vue+vuex
 
 ## Build Setup
 
